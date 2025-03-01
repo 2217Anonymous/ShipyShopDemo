@@ -8,6 +8,6 @@ module.exports = {
     APP_ID: "",
   },
   api: {
-    API_URL: "http://localhost:5000/api",
+    API_URL: "https://shipyshopdemo.onrender.com/api",
   }
 };

@@ -3,7 +3,7 @@ import Cookie from "js.cookie";
 const instance = axios.create({
   // baseURL: `${process.env.REACT_APP_API_BASE_URL}`,
   // baseURL:' https://ecommerce-react-aback.biovustech.com/api',
-  baseURL : 'http://localhost:5055/api',
+  baseURL : 'https://shipyshopdemo.onrender.com/api',
   // baseURL : 'http://192.168.29.65:7000/api',
   // baseURL : 'http://localhost:7000/api',
 
